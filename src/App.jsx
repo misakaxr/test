@@ -18,7 +18,7 @@ function App() {
         className="gitf"
       />
 
-      <h1>💌 Will You Go On Date with me ToDay MUSTAFA? 💌</h1>
+      <h1>💌 Will You Go On Date with me ToDay ? 💌</h1>
       <p>Choose your answer below! 😊</p>
       <div className="buttons">
         <button className="yes-btn" onClick={handleYes}>
